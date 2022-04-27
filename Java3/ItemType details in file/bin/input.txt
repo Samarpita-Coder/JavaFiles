@@ -1,0 +1,4 @@
+Electronics    1000   200  
+Chemicals      500    100  
+Electrical     2100   500  
+Construction   5000   1000 
